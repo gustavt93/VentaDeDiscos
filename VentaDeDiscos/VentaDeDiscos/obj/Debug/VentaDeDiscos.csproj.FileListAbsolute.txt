@@ -1,0 +1,12 @@
+C:\Users\Gustavo\source\repos\VentaDeDiscos\VentaDeDiscos\obj\Debug\VentaDeDiscos.csprojAssemblyReference.cache
+C:\Users\Gustavo\source\repos\VentaDeDiscos\VentaDeDiscos\obj\Debug\VentaDeDiscos.Properties.Resources.resources
+C:\Users\Gustavo\source\repos\VentaDeDiscos\VentaDeDiscos\obj\Debug\VentaDeDiscos.csproj.GenerateResource.cache
+C:\Users\Gustavo\source\repos\VentaDeDiscos\VentaDeDiscos\obj\Debug\VentaDeDiscos.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\VentaDeDiscos\VentaDeDiscos\bin\Debug\VentaDeDiscos.exe.config
+C:\Users\Gustavo\source\repos\VentaDeDiscos\VentaDeDiscos\bin\Debug\VentaDeDiscos.exe
+C:\Users\Gustavo\source\repos\VentaDeDiscos\VentaDeDiscos\bin\Debug\VentaDeDiscos.pdb
+C:\Users\Gustavo\source\repos\VentaDeDiscos\VentaDeDiscos\obj\Debug\VentaDeDiscos.Form1.resources
+C:\Users\Gustavo\source\repos\VentaDeDiscos\VentaDeDiscos\obj\Debug\VentaDeDiscos.InMo.resources
+C:\Users\Gustavo\source\repos\VentaDeDiscos\VentaDeDiscos\obj\Debug\VentaDeDiscos.Principal.resources
+C:\Users\Gustavo\source\repos\VentaDeDiscos\VentaDeDiscos\obj\Debug\VentaDeDiscos.exe
+C:\Users\Gustavo\source\repos\VentaDeDiscos\VentaDeDiscos\obj\Debug\VentaDeDiscos.pdb
